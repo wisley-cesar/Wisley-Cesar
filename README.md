@@ -1,10 +1,6 @@
-### Hello, my name is Wisley César, welcome to my GitHub.  👋
-- 📝 I am currently a student at IF Goiano
-- 🤔 3º period of Computer Science 
-- 🌱 Currently, learning Python, Java
-- 📝I am currently a student at IF Goiano 
 
-### Olá eu sou o Wisley César 👌
+
+### Hello, my name is Wisley César, welcome to my GitHub. 👌
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChlSJua8teUwNC-Z1fEXLwg)
 [![contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wisley__/?hl=pt-br)
