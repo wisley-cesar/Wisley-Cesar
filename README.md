@@ -9,6 +9,7 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WisleyCesar0)
 
 ![Wisley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisley-cesar&show_icons=true&theme=dracula)
+![snake gif](https://github.com/Wisley-Cesar/Wisley-Cesar/blob/output/github-contribution-grid-snake.svg)
 
 ##  Technologies I am learning !
 <div style= "diplay: inclide_block"><br/>
@@ -18,4 +19,3 @@
 
 </div>
 
-![snake gif](https://github.com/Wisley-Cesar/Wisley-Cesar/blob/output/github-contribution-grid-snake.svg)
