@@ -21,8 +21,12 @@
                      <img aling = "center" alt = "R" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 
 
+<br>
+<br>
 
-
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Wisley-Cesar/count.svg?"  />
+</div>
 
      
 
