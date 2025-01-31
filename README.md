@@ -1,34 +1,71 @@
 
-### Olá, meu nome é Wisley César, seja bem vindo ao meu GitHub.👌
-### Hello, my name is Wisley César, welcome to my GitHub. 👌
-[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChlSJua8teUwNC-Z1fEXLwg)
-[![contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_wisley__/?hl=pt-br)
-[![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/wczimm)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wisley-c%C3%A9sar-b4b555255/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/WisleyCesar0)
-
-![Wisley GitHub stats](https://github-readme-stats.vercel.app/api?username=Wisley-cesar&show_icons=true&theme=dracula)
-
-##  Technologies I am learning !
-<div style= "diplay: inclide_block"><br/>
-  <img aling="center" alt="JAVA" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-      <img aling="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-         <img aling="center" alt="DJANGO" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-            <img aling="center" alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-               <img aling="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-                  <img aling="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-                     <img aling = "center" alt = "R" src = "https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+# Olá, meu nome é Wisley César, seja bem vindo ao meu GitHub.👌
+## Hello, my name is Wisley César, welcome to my GitHub. 👌
 
 
-<br>
-<br>
 
+
+<!--github stats-->
+<h2 align="right">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/wisley-cesar">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=wisley-cesar&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/wisley-cesar">
+          <img align="center" src="https://streak-stats.demolab.com?user=wisley-cesar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<!--languages-->
+<h2>Programming Languages & Tools</h2>
+<div align="left">
+  <img src="https://github.com/user-attachments/assets/6e4ce137-ccc5-4d60-9627-0299c0dd662f" alt="Flutter Animation" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/b1dcdb74-70f6-466e-a111-77d4aedaa860" alt="Flutter Icon" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/958f88bb-de93-403d-9438-8f34cf5409d1" alt="Animation" width="50" height="50" />
+  <img src="https://github.com/user-attachments/assets/a49f4599-7a50-4bab-a49b-4252cd7de219" alt="Flutter Animation" width="50" height="50" />
+
+
+</div>
+
+<!--contacts-->
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝</h2>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Wisley-Cesar/count.svg?"  />
+   <a href="mailto:wisleycesar032@gmail.com" target="_blank">
+    <img src="https://github.com/user-attachments/assets/efcc41a3-3fe6-4c2e-8f76-180da99c090a" alt="Gmail Logo" width="50" height="50" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/wisley-c%C3%A9sar-b4b555255/" target="_blank">
+    <img src="https://github.com/user-attachments/assets/aa6d0a7e-d256-4365-8c4c-1253af67666d" alt="LinkedIn Logo" width="50" height="50" />
+  </a>
+
+  <a href="https://twitter.com/WisleyCesar0" target="_blank">
+  <img src="https://github.com/user-attachments/assets/63c69095-bd42-4402-8542-74f804367d1a" alt="Twitter Logo" width="50" height="50" />
+</a>
+
+
+  <a href="https://www.instagram.com/_wisley__/?hl=pt-br" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8c294482-4e6c-4fdf-8992-4dbf32970290" alt="Instagram Logo" width="50" height="50" />
+  </a>
+
+
+  <a href="https://github.com/wisley-cesar" target="_blank">
+  <img src="https://github.com/user-attachments/assets/958f88bb-de93-403d-9438-8f34cf5409d1" alt="Animation" width="50" height="50" />
+  </a>
 </div>
 
-     
 
-</div>
-
+<!--footer-->
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
