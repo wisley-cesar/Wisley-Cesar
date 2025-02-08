@@ -26,12 +26,11 @@
   <a href="https://www.linkedin.com/in/wisley-césar" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://wisley-cesar.github.io/Bio/" target="_blank">
+  <a href="[[https://wisley-cesar.github.io/Bio/](https://wisley-cesar.github.io/LinkBio/)](https://wisley-cesar.github.io/LinkBio/)" target="_blank">
+  <a href="https://wisley-cesar.github.io/LinkBio/" target="_blank">
     <img src="https://img.shields.io/badge/-LIKBIO-%2312100E?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-  <a href="https://www.facebook.com/wisleycesar" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
+
   <a href="https://twitter.com/WisleyCesar0" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=x&logoColor=white">
   </a>
